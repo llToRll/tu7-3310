@@ -8,6 +8,7 @@ import javax.microedition.lcdui.*;
  * @author Administrator
  */
 public class MyForm extends Form implements CommandListener{
+//    Command exit = new Command("exit")
     public MyForm(){
         super("Hello world!!!");
     }
